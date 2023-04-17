@@ -1,4 +1,4 @@
-# Project Lists
+# Project List
 
 ## 1. CKBGPT
 
