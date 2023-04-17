@@ -48,7 +48,7 @@ Nervos Network documentation AI assistant. Telegram bot based on ChatGPT API. Th
 [https://github.com/x777/ckb-doc-bot](url)
 
 ### Team Information
-A team consisting of** YD**.
+A team consisting of **YD**.
 
 **Team Mentor:** Ian
 
@@ -61,7 +61,7 @@ CKQuiz is a widget that allows reader to earn CKB by challenging the quiz you ma
 github.com/liriu/ckquiz-home 
 
 ### Team Information
-A team consisting of** LiRiu**.
+A team consisting of **LiRiu**.
 
 **Team Mentor:** Flouse
 
