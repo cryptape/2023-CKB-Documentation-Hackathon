@@ -3,23 +3,22 @@
 ## 1. CKBGPT
 
 ### Project Description
-A chatbot powered by ChatGPT and LangChain. Ask anything about "[https://github.com/nervosnetwork/ckb](url)". eg: role of xx file/role of xx folder, weblink: [https://ckbgpt.fly.dev/](url)
+A chatbot powered by ChatGPT and LangChain. Ask anything about https://github.com/nervosnetwork/ckb. eg: role of xx file/role of xx folder, weblink: https://ckbgpt.fly.dev
 
 ### Link to project repository
-[https://github.com/tianlitao/toly-gpt](url)
+https://github.com/tianlitao/toly-gpt
 
 ### Team Information
 A team called CKBGPT was created by **tianlitao**.
 
 **Team Mentor:** Yukun
 
-
 ## 2. CKB Academy
 ### Project Description
 CKB Academy is committed to ensuring that new CKB developers have an easy learning curve, by providing easy-to-understand, interactive courses and friendly documentation. Our mission is to foster a robust ecosystem around Nervos Network by providing developers with all the tools and resources they need to create innovative applications and solutions.
 
 ### Link to project repository
-[https://github.com/Flouse/ckb-academy](url)
+https://github.com/Flouse/ckb-academy
 
 ### Team Information
 A team consisting of **Jason Huang**.
@@ -32,7 +31,7 @@ A team consisting of **Jason Huang**.
 Create a customised search engine and Telegram Bot accompaniment to streamline access to information. The search engine is a customised Google engine indexing a list of known resources. New resources can easily be suggested and implemented. Accompanying Telegram Bot contains several commands from its '/' menu which provide links to useful data on GitHub using the GitHub REST API, will update with the repositories. Bot contains RFCS lookup and system/production/miscellaneous script repositories indexing and linking as well as a general References lookup containing other handpicked repositories. Search engine is on a free hosted website, can be found at nervosdocs.bit.ccTelegram Bot's handle is @NervosDocBot, all it's commands are inline with the user and will always post it's responses in private message rather than in channel. It runs on an ESP32 micro controller so while it will happily queue requests it will only process them individually.
 
 ### Link to project repository
-[https://github.com/toastmanAu/Nervos-Doc-Search-Bot](url)
+https://github.com/toastmanAu/Nervos-Doc-Search-Bot
 
 ### Team Information
 A team called **Toastman** was created by **Phill**.
@@ -45,7 +44,7 @@ A team called **Toastman** was created by **Phill**.
 Nervos Network documentation AI assistant. Telegram bot based on ChatGPT API. The bot helps get answers only with related to the Nervos Network documentation.(Bot deployed on the local server. I hope it will be online while testing)
 
 ### Link to project repository
-[https://github.com/x777/ckb-doc-bot](url)
+https://github.com/x777/ckb-doc-bot
 
 ### Team Information
 A team consisting of **YD**.
@@ -74,7 +73,7 @@ A beginner starter guide for the Nervos Blockchain
 A Public Good focusing on multi-chain, which will demonstrate the cryptographic primitives on Nervos. 
 
 ### Link to project repository
-[https://github.com/rune-box/ck-contracts-base](url)
+https://github.com/rune-box/ck-contracts-base
 
 ### Team Information
 A team called **RuneBoxn** was created by **堆烟**.
@@ -86,7 +85,7 @@ A team called **RuneBoxn** was created by **堆烟**.
 Simply explain the basic concepts about CKB with ckb explorer.
 
 ### Link to project repository
-[https://github.com/yanguoyu/Saturn](url)
+https://github.com/yanguoyu/Saturn
 
 ### Team Information
 Jianhui Zheng is the captain of the team named **Saturn**, which includes team members Daryl, Guoyuyan, Jeffreyma, Daniel, and WhiteMind.
